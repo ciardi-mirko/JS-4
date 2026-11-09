@@ -9,5 +9,16 @@
     "wdth" 100;
 }
 
+.loading {
+     display: none;
+}
 
+.primo {
+    background-color: red;
+    color: white;
+}
 
+.NoPrimo{
+    background-color: transparent;
+    color: black
+}
